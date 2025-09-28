@@ -1,0 +1,1 @@
+x = txt = re.search("^The.*game$", txt)
